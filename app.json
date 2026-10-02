@@ -16,6 +16,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "br.edu.grupo9.calculadora",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -25,6 +26,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d0a4c43f-e0ef-4f67-86ce-f264c9dc2e60"
+      }
     }
   }
 }
