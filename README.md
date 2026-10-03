@@ -41,10 +41,6 @@ npx expo start
 
 Depois é só escanear o QR Code com o app **Expo Go** no celular. 📱
 
-## 📸 Screenshots
-
-> *(Adicione aqui prints do app rodando — isso valoriza MUITO o projeto)*
-
 ## 🎯 Próximos passos
 
 - [ ] Adicionar histórico de cálculos
