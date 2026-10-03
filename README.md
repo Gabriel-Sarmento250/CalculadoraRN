@@ -41,13 +41,6 @@ npx expo start
 
 Depois é só escanear o QR Code com o app **Expo Go** no celular. 📱
 
-## 🎯 Próximos passos
-
-- [ ] Adicionar histórico de cálculos
-- [ ] Modo científico
-- [ ] Tema escuro
-- [ ] Testes unitários
-
 ## 👤 Autor
 
 **Gabriel Sarmento Visconti**
